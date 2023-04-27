@@ -51,7 +51,7 @@ Step 3: Initialize the weights for the 2 layer MLP with 2 Hidden neuron
 Step 3: Repeat the  iteration  until the losses become constant and 
               minimum
 	      
-              (i)  Compute the output using forward pass output.
+             (i)  Compute the output using forward pass output.
 	      (ii) Compute the error  .
 	      (iii) Compute the change in weight ‘dw’ by using backward propagation algorithm.
 	      (iv) Modify the weight as per delta rule.
